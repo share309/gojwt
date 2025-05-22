@@ -1,4 +1,4 @@
-module github.com/golangblogs/gojwt
+module github.com/share309/gojwt
 
 go 1.19
 
